@@ -4,3 +4,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/rahulprajapati10/firstproject.git
 git push -u origin main
+
+
+
+git add filename
+git commit -m "first commit"
+git push  origin main
